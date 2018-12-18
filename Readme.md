@@ -1,6 +1,6 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Олег Сорокин](https://up.htmlacademy.ru/adaptive/12/user/30818).
+* Студент: [Антон Носков](https://up.htmlacademy.ru/adaptive/12/user/30818).
 * Наставник: `Неизвестно`.
 
 ---
